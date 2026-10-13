@@ -5,11 +5,10 @@ This repository stores the database from the study on estimating anxiety levels 
 
 * **Taiane Coelho** - taiane@midiacom.uff.br
 * **Raphael** - raphael_m@id.uff.br
-* **Arthur Mota** - arthurmf@id.uff.br
-* **Gabriel Vieira** - gabrielvsc@id.uff.br
 * **Ana Paiva** - paivaana@id.uff.br
+* **Davi Silva Galindo** - davisg@id.uff.br
+* **Esther Araújo Linhares** - araujo_esther@id.uff.br
 * **Bernardo Mendes Rebello** - mendes_bernardo@id.uff.br
-* **Joao Vitor Pereira** - joaovitorpereira9f@gmail.com
 
 Below you will find information about the repository structure, experimental protocol, and available data.
 
